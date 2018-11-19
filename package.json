@@ -1,0 +1,26 @@
+{
+  "name": "mystack",
+  "version": "1.0.0",
+  "description": "CV courtsey travesy media",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "gulp": "^4.0.0",
+    "gulp-gh-pages": "^0.5.4",
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atidivya/myStack.git"
+  },
+  "author": "atidivya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atidivya/myStack/issues"
+  },
+  "homepage": "https://atidivya.github.io/myStack"
+}
